@@ -12,7 +12,7 @@
 - [x] order
 - [x] flex-grow
 - [x] flex-shrink
-- [ ] flex-basis
+- [x] flex-basis
 - [x] align-self
 
 ## Grid:
