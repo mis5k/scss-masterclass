@@ -2,6 +2,10 @@
   display: flex;
   justify-content: space-around;
   height: 100vh;
+  flex-wrap: wrap;
+  /* flex-direction: column-reverse; */
+  /* flex-wrap: wrap-reverse; */
+  align-content: space-between;
 }
 
 .child {
@@ -9,9 +13,8 @@
   height: 200px;
   background: peru;
   color: white;
-}
-
-.child:nth-child(2) {
-  /* align-self: center; */
-  order: 1;
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
