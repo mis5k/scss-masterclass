@@ -1,15 +1,11 @@
 .father {
   display: flex;
   justify-content: space-around;
-  height: 100vh;
-  flex-wrap: wrap;
-  /* flex-direction: column-reverse; */
-  /* flex-wrap: wrap-reverse; */
-  align-content: space-between;
+  height: 100%;
 }
 
 .child {
-  width: 200px;
+  width: 300px;
   height: 200px;
   background: peru;
   color: white;
@@ -17,4 +13,10 @@
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.child:nth-child(2) {
+  background-color: #000;
+  /* flex-shrink: 2; */
+  flex-grow: 1;
 }

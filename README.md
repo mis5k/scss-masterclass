@@ -10,8 +10,8 @@
 - [x] align-items
 - [x] align-content
 - [x] order
-- [ ] flex-grow
-- [ ] flex-shrink
+- [x] flex-grow
+- [x] flex-shrink
 - [ ] flex-basis
 - [x] align-self
 
