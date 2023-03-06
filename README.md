@@ -9,11 +9,11 @@
 - [x] justify-content
 - [x] align-items
 - [ ] align-content
-- [ ] order
+- [x] order
 - [ ] flex-grow
 - [ ] flex-shrink
 - [ ] flex-basis
-- [ ] align-self
+- [x] align-self
 
 ## Grid:
 
