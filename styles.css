@@ -1,6 +1,11 @@
 .wrapper {
-  /* flexbox-container */
+  /* flex-container */
   display: flex;
+  /* main axis */
+  justify-content: space-around;
+  /* cross axis */
+  align-items: flex-start;
+  height: 100vh;
 }
 
 .box {
