@@ -19,7 +19,7 @@
 
 - [x] grid-template-columns
 - [x] grid-template-rows
-- [ ] grid-template-areas
+- [x] grid-template-areas
 - [ ] grid-template
 - [x] column-gap
 - [x] row-gap
