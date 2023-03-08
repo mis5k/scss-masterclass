@@ -35,8 +35,8 @@
 - [x] grid-column-end
 - [x] grid-row-start
 - [x] grid-row-end
-- [ ] grid-column
-- [ ] grid-row
+- [x] grid-column
+- [x] grid-row
 - [ ] justify-self
 - [ ] align-self
 
