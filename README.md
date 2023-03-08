@@ -20,7 +20,7 @@
 - [x] grid-template-columns
 - [x] grid-template-rows
 - [x] grid-template-areas
-- [ ] grid-template
+- [x] grid-template
 - [x] column-gap
 - [x] row-gap
 - [x] gap
@@ -42,7 +42,8 @@
 
 ### Keywords & Functions:
 
-- [ ] repeat
+- [x] repeat
+- [x] fr
 - [ ] min-content
 - [ ] max-content
 - [ ] minmax
