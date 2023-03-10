@@ -37,8 +37,8 @@
 - [x] grid-row-end
 - [x] grid-column
 - [x] grid-row
-- [ ] justify-self
-- [ ] align-self
+- [x] justify-self
+- [x] align-self
 
 ### Keywords & Functions:
 
