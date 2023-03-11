@@ -52,8 +52,8 @@
 
 ## SCSS:
 
-- [ ] Variables
-- [ ] Nesting
+- [x] Variables
+- [x] Nesting
 - [ ] Partials
 - [ ] Mixins
 - [ ] Extend
